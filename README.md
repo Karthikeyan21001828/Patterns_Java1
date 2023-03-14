@@ -1,5 +1,6 @@
 # Patterns_Java1
 ## PROGRAM:
+```
 import java.util.Scanner;
 
 public class Pattern
@@ -62,5 +63,7 @@ public class Pattern
         pattern3();
     }
 }
+
+```
 ## OUTPUT:
 ![image](https://user-images.githubusercontent.com/93427303/224886706-f944ad9c-2197-4a3a-9535-040f0a2966cf.png)
